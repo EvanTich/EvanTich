@@ -1,4 +1,11 @@
-### Hi there 👋
+
+### Hey, I'm Evan
+#### Studying Computer Science at the University of Georgia
+#### Software Developer at UGA's <a href="http://smallsat.uga.edu/">Small Satellite Research Lab</a>
+
+<hr/>
+
+I like to create random stuff for and with friends, and sometimes for my personal use. I have some good ideas mixed in with the wacky ones.
 
 <!--
 **EvanTich/EvanTich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
