@@ -8,6 +8,8 @@
 I like to create random stuff for and with friends, and sometimes for my personal use. I have some good ideas mixed in with the wacky ones.
 
 <!--
+https://github-readme-stats.vercel.app/api?username=EvanTich&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=121212
+https://github-readme-stats.vercel.app/api/top-langs/?username=EvanTich&langs_count=10&hide_border=true&theme=dark&layout=compact&bg_color=121212
 **EvanTich/EvanTich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
