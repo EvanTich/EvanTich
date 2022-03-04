@@ -1,7 +1,7 @@
 
 ### Hey, I'm Evan
 #### Studying Computer Science at the University of Georgia
-#### Flight Software Engineer at UGA's <a href="http://smallsat.uga.edu/">Small Satellite Research Lab</a>
+#### Flight Software Engineer at UGA's <a href="http://smallsat.uga.edu/">Small Satellite Research Lab</a> <img src="ssrl_logo.svg" alt="SSRL Logo" width="200"/>
 
 <hr/>
 
