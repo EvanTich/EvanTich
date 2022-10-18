@@ -2,8 +2,9 @@
 ### Hey, I'm Evan
 <img src="ssrl-logo.svg" alt="SSRL Logo" align="right" width="200"/>
 
-#### Studying Computer Science at the University of Georgia
-#### Flight Software Engineer at UGA's <a href="http://smallsat.uga.edu/">Small Satellite Research Lab</a>
+#### Flight Software and Electrical Engineer at NASA Ames
+#### Graduated magna cum laude from the University of Georgia with a B.S. in Computer Science and a minor in Mathematics
+#### UGA's <a href="http://smallsat.uga.edu/">Small Satellite Research Lab</a> Alumni
 
 <hr/>
 
