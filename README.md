@@ -2,7 +2,7 @@
 ### Hey, I'm Evan
 <img src="ssrl-logo.svg" alt="SSRL Logo" align="right" width="200"/>
 
-#### Flight Software and Electrical Engineer at NASA Ames
+#### Senior Software Engineer at Astrion
 #### Graduated *magna cum laude* from the University of Georgia in 2022 with a B.S. in Computer Science and a minor in Mathematics
 #### UGA's <a href="http://smallsat.uga.edu/">Small Satellite Research Lab</a> Alumni
 
